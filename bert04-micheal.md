@@ -57,8 +57,7 @@ Sentence classification
 <img src="bert04-micheal.assets/image-20210713155042908.png" alt="image-20210713155042908" style="zoom: 50%;" />
 
 方法二:BERT+CRF层
-.CRF层通过学习标签之间转移的模式，来规避“B-
-PER，I-ORG”这样的问题;
+.CRF层通过学习标签之间转移的模式，来规避“B-PER，I-ORG”这样的问题;
 <img src="bert04-micheal.assets/image-20210713155226890.png" alt="image-20210713155226890" style="zoom:50%;" />
 
 relation classification
